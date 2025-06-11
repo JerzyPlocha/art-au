@@ -1,0 +1,10 @@
+SYSTEM:
+<copy entire contents of prompts/system.txt here>
+
+USER:
+Generate a React Native screen component named CraftDashboard. It should:
+- Fetch VirtualItems from GET /api/items.
+- Render each item in a Card showing title and UniqueIdentifier.
+- Include a “Mint” button that navigates to CraftMintScreen.
+- Use Tailwind classes for styling and framer-motion slide-in animation.
+- Name variables and functions using VirtualItem and UniqueIdentifier.

@@ -5,36 +5,42 @@
    * Illustration + tagline.
    * Buttons: Register / Verify Item.
 
-2. **Artisan Dashboard**
+2. **Onboarding Wizard**
+
+   * Connect wallet or create new one.
+   * Enter craft profile information.
+   * Walkthrough to mint first item.
+
+3. **Artisan Dashboard**
 
    * Tabs: **Crafts** and **Training**.
    * Craft cards with Mint / Verify.
    * Trainee cards with Issue Certificate.
 
-3. **Mint Craft Token**
+4. **Mint Craft Token**
 
    * Item Title, Description.
    * Monetization settings (Royalties, Shares, Gating, Bundles).
    * Mint Button.
 
-4. **Issue Certificate**
+5. **Issue Certificate**
 
    * Course dropdown.
    * Inputs: Trainee name, date, optional royalties/bundle.
    * Issue Button.
 
-5. **Confirmation View**
+6. **Confirmation View**
 
    * Success message.
    * Token ID, QR code, Blockchain link.
    * Back to Dashboard.
 
-6. **Global Monetization Settings**
+7. **Global Monetization Settings**
 
    * Toggles and default inputs.
    * Helper text per setting.
 
-7. **Verification Screen**
+8. **Verification Screen**
 
    * Input/Scan QR.
    * Verify button.

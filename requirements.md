@@ -4,6 +4,7 @@
 
    * Register as Artisan, Customer, or Trainee.
    * Manage artisan profiles and trainee identities.
+   * Guided onboarding wizard collects wallet, contact info and craft categories.
 
 2. **Artisan Dashboard**
 
@@ -14,6 +15,8 @@
 
    * Form to input item/course details.
    * Configure monetization: royalties (%), fractional ownership (shares), token-gated content, bundles.
+   * Metadata templates for common craft types.
+   * Optional marketplace listing after minting.
    * Generate mock Token/Certificate IDs and QR codes.
 
 4. **Verification Flow**
@@ -51,3 +54,4 @@
 
   * Modular code/components if React Native used.
   * Clear naming conventions aligned with domain terms.
+  * Internationalization for onboarding and dashboard screens.

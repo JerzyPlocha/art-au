@@ -1,8 +1,10 @@
 #### Artisan
 
-* **Onboarding**: Register and manage profile.
-* **NFT Minting**: Mint tokens for crafted items.
+* **Onboarding**: Guided wizard to register, connect wallet, and create a craft profile.
+* **First Mint**: Walkthrough to mint an initial item using metadata templates.
+* **NFT Minting**: Mint tokens for crafted items and optionally list on a marketplace.
 * **Monetization**: Configure royalties, shares, bundles.
+* **Dashboard**: Track minted items and royalty stats.
 * **Training**: Issue NFT certificates to trainees.
 
 #### Trainee
